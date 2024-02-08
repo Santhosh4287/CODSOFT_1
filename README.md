@@ -15,8 +15,4 @@ This project is a simple webpage created using HTML and CSS to pay tribute to so
 - **styles.css:** Includes the CSS styles for enhancing the visual appeal and layout of the webpage.
 - **images:** Folder containing images used within the webpage.
 
-## Usage
-To view the webpage, simply open the `index.html` file in a web browser. You can also explore and modify the HTML and CSS files to customize the webpage further according to your preferences.
 
-## Credits
-This project was created by [Your Name]. Feel free to contribute, modify, or use it as a template for your own admiration webpage projects.
